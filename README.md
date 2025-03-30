@@ -1,6 +1,6 @@
-# quiz_app
+# 🎯 Flutter Quiz App
 
-A new Flutter project.
+An interactive Quiz App built using Flutter & Dart, allowing users to answer multiple-choice questions dynamically. The app evaluates responses in real time and displays correct/incorrect answers with intuitive UI indicators.
 
 ## Getting Started
 
